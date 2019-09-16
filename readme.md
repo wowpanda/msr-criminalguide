@@ -6,7 +6,7 @@ v1.2
 1. Put "msr-criminalguide" into your server.cfg
 2. Enjoy!
 
-
+For Support: https://discord.gg/WZrArc8
 
 Credits:
 ^Mika
